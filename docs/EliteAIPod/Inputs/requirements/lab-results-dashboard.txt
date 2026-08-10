@@ -1,0 +1,2 @@
+
+Design a clean, dark-mode interface that lists a patient's recent blood work. The UI should parse a JSON array of test results and automatically apply conditional formatting—highlighting rows in red if values (like WBC count or glucose) fall outside standard medical reference ranges. must build the entire full stack with frontend, database and backend.
